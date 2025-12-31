@@ -1,0 +1,74 @@
+[
+  {
+    "serviceId": 1,
+    "serviceName": "Winter Coat Fitting for Dogs",
+    "providerName": "PawCare Studio",
+    "providerEmail": "info@pawcare.com",
+    "price": 25,
+    "rating": 4.9,
+    "slotsAvailable": 123584,
+    "description": "Custom coat fitting and warm outfit options to keep your dog comfortable in the cold.",
+    "image": "https://i.ibb.co.com/gZ2zdQfy/Gemini-Generated-Image-61so9561so9561so.png",
+    "category": "Clothing"
+  },
+  {
+    "serviceId": 2,
+    "serviceName": "Winter Grooming & Paw Treatment",
+    "providerName": "CozyPets Grooming",
+    "providerEmail": "hello@cozypets.com",
+    "price": 30,
+    "rating": 4.8,
+    "slotsAvailable": 3603,
+    "description": "Professional grooming with moisturizing paw balm and winter-safe shampoo.",
+    "image": "https://i.ibb.co.com/Vptjqyfg/Gemini-Generated-Image-61so9561so9561so-1.png",
+    "category": "Grooming"
+  },
+  {
+    "serviceId": 3,
+    "serviceName": "Heated Pet Bed Rental",
+    "providerName": "WarmWhiskers",
+    "providerEmail": "contact@warmwhiskers.com",
+    "price": 15,
+    "rating": 4.7,
+    "slotsAvailable": 23695,
+    "description": "Rent heated beds for your pets to stay cozy during chilly nights.",
+    "image": "https://i.ibb.co.com/7JpD2GB6/Gemini-Generated-Image-61so9561so9561so-2.png",
+    "category": "Accessories"
+  },
+  {
+    "serviceId": 4,
+    "serviceName": "Indoor Exercise & Play Sessions",
+    "providerName": "FurryFitness Center",
+    "providerEmail": "support@furryfitness.com",
+    "price": 20,
+    "rating": 4.6,
+    "slotsAvailable": 856,
+    "description": "Keep your pets active indoors with fun exercise and play routines during winter.",
+    "image": "https://i.ibb.co.com/qYyQyJmY/Gemini-Generated-Image-61so9561so9561so-3.png",
+    "category": "Activities"
+  },
+  {
+    "serviceId": 5,
+    "serviceName": "Winter Diet Consultation",
+    "providerName": "HealthyPaws Nutrition",
+    "providerEmail": "nutrition@healthypaws.com",
+    "price": 35,
+    "rating": 4.9,
+    "slotsAvailable": 2006,
+    "description": "Expert guidance on diet plans to keep your pets healthy and energetic in cold weather.",
+    "image": "https://i.ibb.co.com/4ZxmZcyV/Gemini-Generated-Image-61so9561so9561so-4.png",
+    "category": "Nutrition"
+  },
+  {
+    "serviceId": 6,
+    "serviceName": "Winter Paw Protection Wax",
+    "providerName": "PetSafe Care",
+    "providerEmail": "info@petsafecare.com",
+    "price": 18,
+    "rating": 4.8,
+    "slotsAvailable": 56937,
+    "description": "Special paw wax to protect your pet’s paws from snow, ice, and salt.",
+    "image": "https://i.ibb.co.com/TMzYyLmL/Gemini-Generated-Image-61so9561so9561so-5.png",
+    "category": "Health"
+  }
+]
